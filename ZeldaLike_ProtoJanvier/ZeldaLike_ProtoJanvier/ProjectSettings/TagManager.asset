@@ -44,35 +44,17 @@ TagManager:
   - name: Sol
     uniqueID: 1823821399
     locked: 0
-  - name: Dale
-    uniqueID: 60277923
-    locked: 0
-  - name: Plan0
+  - name: "Parois derri\xE8re"
     uniqueID: 276517037
     locked: 0
-  - name: Plan1
+  - name: Dales et Tapis
     uniqueID: 2396320487
     locked: 0
-  - name: Plan2
-    uniqueID: 208127711
-    locked: 0
-  - name: Plan3
+  - name: "PlanD\xE9corDynamique"
     uniqueID: 1237245123
     locked: 0
-  - name: Plan4
-    uniqueID: 1205765587
-    locked: 0
-  - name: Plan5
+  - name: Feuillage Abres
     uniqueID: 1144697743
-    locked: 0
-  - name: Plan6
-    uniqueID: 2736651599
-    locked: 0
-  - name: ArbreChapeauxBas
-    uniqueID: 3337548777
-    locked: 0
-  - name: ArbreChapeaux
-    uniqueID: 809687265
     locked: 0
   - name: Particules
     uniqueID: 1717164775

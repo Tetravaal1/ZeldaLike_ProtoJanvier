@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4248979454096192}
   - component: {fileID: 212049406188833872}
+  - component: {fileID: 114890721428224782}
   m_Layer: 0
   m_Name: AbrePlat_3_chapeau
   m_TagString: Untagged
@@ -33,13 +34,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1119975653473196}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.9304283, y: 0.39743432, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.364, y: -2.874, z: -2.7002292}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114890721428224782
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1119975653473196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b72da3e3c0b2dc84186a84672712c79f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hauteurLigneBlanche: -0.1
 --- !u!212 &212049406188833872
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -55,7 +68,7 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 13e04564a64bdd74c9a6945ac97fa5a6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -72,8 +85,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1237245123
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0fbaeebaf1f7942429e85b95a5595aa3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
