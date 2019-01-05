@@ -74,3 +74,9 @@ TagManager:
   - name: ArbreChapeaux
     uniqueID: 809687265
     locked: 0
+  - name: Particules
+    uniqueID: 1717164775
+    locked: 0
+  - name: Filtre
+    uniqueID: 1212383017
+    locked: 0
