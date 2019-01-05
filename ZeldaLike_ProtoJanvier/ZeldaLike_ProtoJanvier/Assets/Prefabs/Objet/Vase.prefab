@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4908546657397108}
   - component: {fileID: 212404099341111382}
+  - component: {fileID: 114654519413432458}
   m_Layer: 0
   m_Name: Vase
   m_TagString: Untagged
@@ -40,6 +41,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114654519413432458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1144407309107614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b72da3e3c0b2dc84186a84672712c79f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hauteurLigneBlanche: 0.03
 --- !u!212 &212404099341111382
 SpriteRenderer:
   m_ObjectHideFlags: 1
