@@ -20,6 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4748880203658134}
   - component: {fileID: 212681320852562294}
+  - component: {fileID: 60445034458474770}
   m_Layer: 0
   m_Name: Paroi_3
   m_TagString: Untagged
@@ -33,13 +34,49 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1339645151174370}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.973, y: 2.038, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.36302537, y: 1.061, z: -2.7002292}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &60445034458474770
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1339645151174370}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.93, y: 0.84}
+    newSize: {x: 0.93, y: 0.84}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.4645043, y: -0.20387304}
+      - {x: -0.46369785, y: -0.20961368}
+      - {x: -0.46249706, y: -0.32968557}
+      - {x: -0.39478403, y: -0.3822211}
+      - {x: -0.19050425, y: -0.3889042}
+      - {x: -0.15015382, y: -0.35010064}
+      - {x: -0.12771708, y: -0.3497728}
+      - {x: -0.09022385, y: -0.38673484}
+      - {x: 0.10132086, y: -0.38905227}
+      - {x: 0.1254322, y: -0.41949904}
+      - {x: 0.38961637, y: -0.41570628}
+      - {x: 0.46718448, y: -0.34218538}
 --- !u!212 &212681320852562294
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -55,7 +92,7 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 7a9ead9e758382a41a5808bb38ccecc7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -72,8 +109,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 276517037
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 1cae80eaf5c39f54ba25c0e4c66c9645, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

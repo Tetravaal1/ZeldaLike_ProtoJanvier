@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4233063931543180}
   - component: {fileID: 212743906160092172}
   - component: {fileID: 114064780162896418}
+  - component: {fileID: 60048466556439158}
   m_Layer: 0
   m_Name: RocheMoyenneGrande
   m_TagString: Untagged
@@ -34,13 +35,48 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1611703829827068}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.050045013, y: -0.83980286, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.613, y: 0.741, z: -2.848059}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &60048466556439158
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1611703829827068}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.29}
+    newSize: {x: 0.3, y: 0.29}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.1202991, y: -0.10962707}
+      - {x: 0.023247242, y: -0.112772405}
+      - {x: 0.010014057, y: -0.09491795}
+      - {x: -0.013357639, y: -0.11217409}
+      - {x: -0.03468752, y: -0.11252886}
+      - {x: -0.048769474, y: -0.14367718}
+      - {x: -0.10715699, y: -0.14218897}
+      - {x: -0.13551259, y: -0.113488615}
+      - {x: -0.13584948, y: -0.034338653}
+      - {x: 0.1307888, y: -0.028940737}
+      - {x: 0.15249252, y: -0.07418555}
 --- !u!114 &114064780162896418
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -68,7 +104,7 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: fafaf905fbce96a4bab60d86ace95ce6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85,8 +121,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1237245123
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b58e111820b0295468ed1e54eeec19da, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
