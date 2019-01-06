@@ -127,9 +127,9 @@ MonoBehaviour:
         saturation: 1.17
         contrast: 1
       channelMixer:
-        red: {x: 1, y: 0, z: 0}
-        green: {x: 0, y: 1, z: 0}
-        blue: {x: 0, y: 0, z: 1}
+        red: {x: 1.09, y: 0, z: 0}
+        green: {x: 0, y: 0.92, z: 0}
+        blue: {x: 0, y: 0, z: 1.09}
         currentEditingChannel: 0
       colorWheels:
         mode: 1
@@ -308,7 +308,7 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       spectralTexture: {fileID: 0}
-      intensity: 0.101
+      intensity: 0.063
   grain:
     m_Enabled: 1
     m_Settings:
@@ -320,11 +320,11 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       mode: 0
-      color: {r: 0.3962264, g: 0.16681793, b: 0.1476504, a: 1}
+      color: {r: 0.38679248, g: 0.17332682, b: 0.31016192, a: 1}
       center: {x: 0.5, y: 0.5}
-      intensity: 0.45
-      smoothness: 0.2
-      roundness: 1
+      intensity: 0.58
+      smoothness: 1
+      roundness: 0
       mask: {fileID: 0}
       opacity: 1
       rounded: 0
