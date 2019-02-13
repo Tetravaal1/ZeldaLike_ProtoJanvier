@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: 0e5163052cdbcd849aa7eeed66ee3016
+guid: 29b3780e62396fc459b9713f7f0244e3
 TextureImporter:
   fileIDToRecycleName:
-    21300000: chara anim course 64 sheet_0
-    21300002: chara anim course 64 sheet_1
-    21300004: chara anim course 64 sheet_2
-    21300006: chara anim course 64 sheet_3
-    21300008: chara anim course 64 sheet_4
-    21300010: chara anim course 64 sheet_5
-    21300012: chara anim course 64 sheet_6
-    21300014: chara anim course 64 sheet_7
-    21300016: chara anim course 64 sheet_8
-    21300018: chara anim course 64 sheet_9
-    21300020: chara anim course 64 sheet_10
-    21300022: chara anim course 64 sheet_11
-    21300024: chara anim course 64 sheet_12
-    21300026: chara anim course 64 sheet_13
-    21300028: chara anim course 64 sheet_14
-    21300030: chara anim course 64 sheet_15
-    21300032: chara anim course 64 sheet_16
-    21300034: chara anim course 64 sheet_17
-    21300036: chara anim course 64 sheet_18
-    21300038: chara anim course 64 sheet_19
-    21300040: chara anim course 64 sheet_20
-    21300042: chara anim course 64 sheet_21
-    21300044: chara anim course 64 sheet_22
-    21300046: chara anim course 64 sheet_23
-    21300048: chara anim course 64 sheet_24
-    21300050: chara anim course 64 sheet_25
-    21300052: chara anim course 64 sheet_26
-    21300054: chara anim course 64 sheet_27
-    21300056: chara anim course 64 sheet_28
-    21300058: chara anim course 64 sheet_29
+    21300000: chara anim course 64 sheetSYMETRIE_0
+    21300002: chara anim course 64 sheetSYMETRIE_1
+    21300004: chara anim course 64 sheetSYMETRIE_2
+    21300006: chara anim course 64 sheetSYMETRIE_3
+    21300008: chara anim course 64 sheetSYMETRIE_4
+    21300010: chara anim course 64 sheetSYMETRIE_5
+    21300012: chara anim course 64 sheetSYMETRIE_6
+    21300014: chara anim course 64 sheetSYMETRIE_7
+    21300016: chara anim course 64 sheetSYMETRIE_8
+    21300018: chara anim course 64 sheetSYMETRIE_9
+    21300020: chara anim course 64 sheetSYMETRIE_10
+    21300022: chara anim course 64 sheetSYMETRIE_11
+    21300024: chara anim course 64 sheetSYMETRIE_12
+    21300026: chara anim course 64 sheetSYMETRIE_13
+    21300028: chara anim course 64 sheetSYMETRIE_14
+    21300030: chara anim course 64 sheetSYMETRIE_15
+    21300032: chara anim course 64 sheetSYMETRIE_16
+    21300034: chara anim course 64 sheetSYMETRIE_17
+    21300036: chara anim course 64 sheetSYMETRIE_18
+    21300038: chara anim course 64 sheetSYMETRIE_19
+    21300040: chara anim course 64 sheetSYMETRIE_20
+    21300042: chara anim course 64 sheetSYMETRIE_21
+    21300044: chara anim course 64 sheetSYMETRIE_22
+    21300046: chara anim course 64 sheetSYMETRIE_23
+    21300048: chara anim course 64 sheetSYMETRIE_24
+    21300050: chara anim course 64 sheetSYMETRIE_25
+    21300052: chara anim course 64 sheetSYMETRIE_26
+    21300054: chara anim course 64 sheetSYMETRIE_27
+    21300056: chara anim course 64 sheetSYMETRIE_28
+    21300058: chara anim course 64 sheetSYMETRIE_29
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -93,7 +93,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -104,7 +104,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -114,7 +114,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chara anim course 64 sheet_0
+      name: chara anim course 64 sheetSYMETRIE_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,13 +128,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ecb00b6c8751e84092b61eb6280da84
+      spriteID: 8cf43060967f3f34d9b9a96f127da4d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_1
+      name: chara anim course 64 sheetSYMETRIE_1
       rect:
         serializedVersion: 2
         x: 64
@@ -148,13 +148,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cacce631845d71b46a8d6ed89ba9515f
+      spriteID: 65c940cb4df9e3c4da9e252b96676461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_2
+      name: chara anim course 64 sheetSYMETRIE_2
       rect:
         serializedVersion: 2
         x: 128
@@ -168,13 +168,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fffb2b68d09d6124a8a7faa8915b9371
+      spriteID: 4d91e0352489ac347b5946dd42fa2978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_3
+      name: chara anim course 64 sheetSYMETRIE_3
       rect:
         serializedVersion: 2
         x: 192
@@ -188,13 +188,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffed282672bde05429cc9d4d7b980fbb
+      spriteID: 33d2cccb758d45f409353671f2e01898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_4
+      name: chara anim course 64 sheetSYMETRIE_4
       rect:
         serializedVersion: 2
         x: 256
@@ -208,13 +208,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5482372f83244a48967361f1927aca2
+      spriteID: d788124daeeff394cb1545269300c017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_5
+      name: chara anim course 64 sheetSYMETRIE_5
       rect:
         serializedVersion: 2
         x: 320
@@ -228,13 +228,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6209cc96b622524c896554503c21ba2
+      spriteID: 1b7f914d80603554abc57121d9b75a6d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_6
+      name: chara anim course 64 sheetSYMETRIE_6
       rect:
         serializedVersion: 2
         x: 384
@@ -248,13 +248,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3d31db9bd460d8488c0da00167285ec
+      spriteID: 09f861bcaeec482448f027825a43f82d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_7
+      name: chara anim course 64 sheetSYMETRIE_7
       rect:
         serializedVersion: 2
         x: 448
@@ -268,13 +268,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbc6f1d58f4a54945b9d4dcaea8fa43e
+      spriteID: 4e8f28537bda7684b9521095a1f55886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_8
+      name: chara anim course 64 sheetSYMETRIE_8
       rect:
         serializedVersion: 2
         x: 0
@@ -288,13 +288,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f54f7f249810c70498d5f9d13ea53e46
+      spriteID: 5c3beb0ce2d6b494799cb297d8560c1a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_9
+      name: chara anim course 64 sheetSYMETRIE_9
       rect:
         serializedVersion: 2
         x: 64
@@ -308,13 +308,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1013f51b02b3b894795b34f724678eb8
+      spriteID: fc67ce61c300afc4c9d6798c45946fe2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_10
+      name: chara anim course 64 sheetSYMETRIE_10
       rect:
         serializedVersion: 2
         x: 128
@@ -328,13 +328,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d9f62c9522760649bff135ca65c6646
+      spriteID: 58417e6adb67dcf4a954cf76d0edf5ec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_11
+      name: chara anim course 64 sheetSYMETRIE_11
       rect:
         serializedVersion: 2
         x: 192
@@ -348,13 +348,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fb90502d55db744ba67a2b0332ee8cb
+      spriteID: 901697ba2cecff4478e749ace4424fe8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_12
+      name: chara anim course 64 sheetSYMETRIE_12
       rect:
         serializedVersion: 2
         x: 256
@@ -368,13 +368,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0044fc76fb78094e9b07d2802f24b1b
+      spriteID: d579a12aaca5aff47845c8abdc51a2e8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_13
+      name: chara anim course 64 sheetSYMETRIE_13
       rect:
         serializedVersion: 2
         x: 320
@@ -388,13 +388,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 044ce8b022356464cb8e0f29e35d5054
+      spriteID: fa5216585ecc1a0469298d88cd9553ec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_14
+      name: chara anim course 64 sheetSYMETRIE_14
       rect:
         serializedVersion: 2
         x: 384
@@ -408,13 +408,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e32555a289e65c943afbe6302eb275dd
+      spriteID: 289b6dca2d97be6419a45e7980d1ffbb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_15
+      name: chara anim course 64 sheetSYMETRIE_15
       rect:
         serializedVersion: 2
         x: 448
@@ -428,13 +428,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e65b4e6701f8fe4cb9b26e214b8b9af
+      spriteID: 9504dfd03b339c540a7affb28e0aa380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_16
+      name: chara anim course 64 sheetSYMETRIE_16
       rect:
         serializedVersion: 2
         x: 0
@@ -448,13 +448,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89ef5f3e712fd1449b2a84b6d5117db7
+      spriteID: d1d83566bee2a9741a7bf17399622a6c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_17
+      name: chara anim course 64 sheetSYMETRIE_17
       rect:
         serializedVersion: 2
         x: 64
@@ -468,13 +468,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aeeacce245e80e343a159cb0b41493cb
+      spriteID: 55d8ad1c63df7b446b7af2301cc26ab5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_18
+      name: chara anim course 64 sheetSYMETRIE_18
       rect:
         serializedVersion: 2
         x: 128
@@ -488,13 +488,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdb6fc3468631f242949b7a2a7c13fef
+      spriteID: 550ede0f6d8a68d4d82aec3bf537d067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_19
+      name: chara anim course 64 sheetSYMETRIE_19
       rect:
         serializedVersion: 2
         x: 192
@@ -508,13 +508,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f93e8fc2a4e2e23438a4c05e63637c08
+      spriteID: e33e1b8d09b630a4eaacd27e679e865b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_20
+      name: chara anim course 64 sheetSYMETRIE_20
       rect:
         serializedVersion: 2
         x: 256
@@ -528,13 +528,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 239e435c224abfe40896b3826ff99ab1
+      spriteID: 5906f382b3358d9468b3a57b117defbb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_21
+      name: chara anim course 64 sheetSYMETRIE_21
       rect:
         serializedVersion: 2
         x: 320
@@ -548,13 +548,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2907deedc9c89d3489ba75df02507f20
+      spriteID: 1bb44c39453dbfd489a67c28fbf12585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_22
+      name: chara anim course 64 sheetSYMETRIE_22
       rect:
         serializedVersion: 2
         x: 384
@@ -568,13 +568,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ae4ceeff81729345917d130b840feac
+      spriteID: 5330752f9751ce04fa3ba79e06822f36
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_23
+      name: chara anim course 64 sheetSYMETRIE_23
       rect:
         serializedVersion: 2
         x: 448
@@ -588,53 +588,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff56357c267da1342a2b21ab8d30f11a
+      spriteID: eea25b734fb8d9c449241f869192c84c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4119cffe1b8e866429e73d16b7633d50
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chara anim course 64 sheet_25
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5967bab4bcd09144bafa07fe9e9ec6c5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chara anim course 64 sheet_26
+      name: chara anim course 64 sheetSYMETRIE_24
       rect:
         serializedVersion: 2
         x: 128
@@ -648,13 +608,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 820ef857b4b5eed439bc97f839c41521
+      spriteID: 38d1e668517d3044983b0222b03fed68
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_27
+      name: chara anim course 64 sheetSYMETRIE_25
       rect:
         serializedVersion: 2
         x: 192
@@ -668,13 +628,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c24148ab3138c84d93d59bdc2e49257
+      spriteID: a9efe407e47948243a4a376fc1bc4a3e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_28
+      name: chara anim course 64 sheetSYMETRIE_26
       rect:
         serializedVersion: 2
         x: 256
@@ -688,13 +648,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57f768c1a2f8dc3449f7d8d81b0d4030
+      spriteID: e0d98604ab9683145b2780ee2c1209df
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chara anim course 64 sheet_29
+      name: chara anim course 64 sheetSYMETRIE_27
       rect:
         serializedVersion: 2
         x: 320
@@ -708,7 +668,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5e355c4e55f05a44b57d456d171cdfb
+      spriteID: 097fc063a2a53f5409a6f02aef71c91c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara anim course 64 sheetSYMETRIE_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197ece75d3fd83428d39df1ca126399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara anim course 64 sheetSYMETRIE_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31f8f9271471247ad9768767a0cf9c
       vertices: []
       indices: 
       edges: []
@@ -716,7 +716,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1cb564d2005298b42a3db7545f7da3b3
+    spriteID: a552108b681aa4445b887c0f82ca73ff
     vertices: []
     indices: 
     edges: []
